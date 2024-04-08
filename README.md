@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi! I'm Laxmi Narayana Pattanayak, a result-oriented aspiring software engineer passionate about innovation. <br>   I hold a Bachelor's degree in Computer Applications & currently pursuing Master's in Computer Applications where I developed skills in different tech stacks.<br><br>💻 Proficient in Java, JavaScript, Python, OOP, C, SQL.<br><br>🔭 I’m currently working on Web Development projects.<br>🌱 I’m currently learning MERN Stack. <br><br>📫 Reach me on - laxminarayana3101@gmail.com
+<h1 align="left">Hi 👋, I'm Laxmi Narayana</h1>
+<h3 align="left">A passionate developer from India</h3><br>💻 Proficient in Java, JavaScript, Python, OOP, C, SQL.<br><br>🔭 I’m currently working on Web Development projects.<br>🌱 I’m currently learning MERN Stack. <br><br>📫 Reach me on - laxminarayana3101@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
