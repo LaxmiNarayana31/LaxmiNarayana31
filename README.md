@@ -2,8 +2,10 @@
 👋 Hi! I'm Laxmi Narayana Pattanayak, a result-oriented aspiring software engineer passionate about innovation. <br>   I hold a Bachelor's degree in Computer Applications & currently pursuing Master's in Computer Applications where I developed skills in different tech stacks.<br><br>💻 Proficient in Java, JavaScript, Python, OOP, C, SQL.<br><br>🔭 I’m currently working on Web Development projects.<br>🌱 I’m currently learning MERN Stack. <br><br>📫 Reach me on - laxminarayana3101@gmail.com
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laxminarayana31/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/Shiva_31Jan) 
+<p align="left">
+<a href="https://www.linkedin.com/in/laxminarayana31/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivang-yadav-b83979257" height="30" width="40" /></a>
+<a href="https://twitter.com/Shiva_131" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@16_shivang" height="30" width="40" /></a>
+</p>
 
 <!--
 # 💻 Tech Stack:
