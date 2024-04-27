@@ -26,6 +26,7 @@
   <a href="https://www.postman.com/" target="_blank"><img  src="https://skillicons.dev/icons?i=postman" alt="Docker"/></a>
   <a href="https://git-scm.com/" target="_blank"><img  src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
   <a href="https://github.com/" target="_blank"><img  src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
+  <a href="https://dev.to/laxminarayana31" target="_blank"><img  src="https://skillicons.dev/icons?i=devto" alt="devto"/></a>
 </p>
 
 
