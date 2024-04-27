@@ -22,7 +22,8 @@
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code"/></a>
   <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ"/></a>
-  <!--<a href="https://jupyter.org/" target="_blank"><img  src="https://skillicons.dev/icons?i=jupyternotebook" alt="Jupyter Notebook"/></a>-->
+  <a href="https://www.docker.com/" target="_blank"><img  src="https://skillicons.dev/icons?i=docker" alt="Docker"/></a>
+  <a href="https://www.postman.com/" target="_blank"><img  src="https://skillicons.dev/icons?i=postman" alt="Docker"/></a>
   <a href="https://git-scm.com/" target="_blank"><img  src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
   <a href="https://github.com/" target="_blank"><img  src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
 </p>
