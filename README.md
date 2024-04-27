@@ -12,9 +12,10 @@
   <a href="https://www.javascript.com" target="_blank"><img  src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></a>
   <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
   <a href="https://www.python.org" target="_blank"><img  src="https://skillicons.dev/icons?i=python" alt="Python"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img  src="https://skillicons.dev/icons?i=html" alt="HTML"/></a>
+  <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img  src="https://skillicons.dev/icons?i=html" alt="HTML"/></a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img  src="https://skillicons.dev/icons?i=css" alt="CSS"/></a>
   <a href="https://nodejs.org/" target="_blank"><img  src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img  src="https://skillicons.dev/icons?i=express" alt="Express"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img  src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img  src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></a>
@@ -26,6 +27,7 @@
   <a href="https://www.postman.com/" target="_blank"><img  src="https://skillicons.dev/icons?i=postman" alt="Docker"/></a>
   <a href="https://git-scm.com/" target="_blank"><img  src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
   <a href="https://github.com/" target="_blank"><img  src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
+  <a href="https://www.npmjs.com/" target="_blank"><img  src="https://skillicons.dev/icons?i=npm" alt="NPM"/></a>
   <a href="https://dev.to/laxminarayana31" target="_blank"><img  src="https://skillicons.dev/icons?i=devto" alt="devto"/></a>
 </p>
 
