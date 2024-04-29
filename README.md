@@ -5,6 +5,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/laxminarayana31/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="laxminarayana31"/></a>
 <a href="https://twitter.com/Shiva_131" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="laxminarayana31"/></a>
+<a href="https://dev.to/laxminarayana31" target="_blank"><img  align="center" src="https://skillicons.dev/icons?i=devto" alt="devto"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,7 +29,6 @@
   <a href="https://git-scm.com/" target="_blank"><img  src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
   <a href="https://github.com/" target="_blank"><img  src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
   <a href="https://www.npmjs.com/" target="_blank"><img  src="https://skillicons.dev/icons?i=npm" alt="NPM"/></a>
-  <a href="https://dev.to/laxminarayana31" target="_blank"><img  src="https://skillicons.dev/icons?i=devto" alt="devto"/></a>
 </p>
 
 
