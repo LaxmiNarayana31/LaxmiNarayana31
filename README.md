@@ -18,7 +18,7 @@
   <a href="https://nodejs.org/" target="_blank"><img  src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/></a>
   <a href="https://expressjs.com/" target="_blank"><img  src="https://skillicons.dev/icons?i=express" alt="Express"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img  src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React"/></a>
+<!--   <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React"/></a> -->
   <a href="https://www.mysql.com/" target="_blank"><img  src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img  src="https://skillicons.dev/icons?i=mongodb" alt="mongoDB"/></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C"/></a>
