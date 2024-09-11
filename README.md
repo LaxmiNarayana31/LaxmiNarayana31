@@ -30,6 +30,7 @@
   <a href="https://git-scm.com/" target="_blank"><img  src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
   <a href="https://github.com/" target="_blank"><img  src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
   <a href="https://www.npmjs.com/" target="_blank"><img  src="https://skillicons.dev/icons?i=npm" alt="NPM"/></a>
+  <a href="https://ubuntu.com/" target="_blank"><img  src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu"/></a>
 </p>
 
 
