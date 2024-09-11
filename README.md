@@ -10,9 +10,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://www.python.org" target="_blank"><img  src="https://skillicons.dev/icons?i=python" alt="Python"/></a>
+  <a href="https://fastapi.tiangolo.com/tutorial/" target="_blank"><img  src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI"/></a>
   <a href="https://www.javascript.com" target="_blank"><img  src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></a>
   <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
-  <a href="https://www.python.org" target="_blank"><img  src="https://skillicons.dev/icons?i=python" alt="Python"/></a>
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img  src="https://skillicons.dev/icons?i=html" alt="HTML"/></a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img  src="https://skillicons.dev/icons?i=css" alt="CSS"/></a>
   <a href="https://nodejs.org/" target="_blank"><img  src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/></a>
