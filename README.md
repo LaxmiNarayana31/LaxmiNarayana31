@@ -1,5 +1,8 @@
 <h1 align="left">Hi 👋, I'm Laxmi Narayana</h1>
-<h3 align="left">A passionate engineer from India</h3><br>💻 Proficient in Java, JavaScript, Python, OOP, C, SQL.<br>🔭 I’m currently working on Web Development projects.<br>🌱 I’m currently learning MERN Stack. <br><br>📫Reach me on - laxminarayana3101@gmail.com
+<!-- <h3 align="left">A passionate engineer from India</h3> -->
+<!-- <br>💻 Proficient in Java, JavaScript, Python, OOP, C, SQL.<br>🔭 I’m currently working on Web Development projects. -->
+<!-- <br>🌱 I’m currently learning MERN Stack. <br> -->
+<br>📫Reach me on - laxminarayana3101@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
